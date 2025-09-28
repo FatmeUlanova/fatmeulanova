@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
-<h2>📺 Certifications</h2>
+<h2>💬 Certifications</h2>
 
 - [Technical Diagnostics and Troubleshooting Techniques](https://www.coursera.org/account/accomplishments/verify/0QBWM5IZMOWJ)
 - [Networking Fundamentals (CCNA spanish)](https://www.netacad.com/certificates?issuanceId=05a03436-4ef9-48a7-a374-5c31358792b5)
