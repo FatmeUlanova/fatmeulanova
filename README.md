@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>FusionSigma's IT infrastructure / Infrastructure from scratch (spanish)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
