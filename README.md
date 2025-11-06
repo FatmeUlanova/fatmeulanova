@@ -20,7 +20,7 @@ Transition into Cybersecurity with focus on **SOC Tier 1 / Security Analyst** â€
 | Category | Skills |
 |---------|--------|
 | Networking & Security | TCP/IP, routing, switching, VLANs, VPN, firewall rules |
-| Cloud Platforms | Google Cloud, AWS fundamentals, Azure basics |
+| Cloud Platforms | Google Cloud |
 | Virtualisation | VMware, Hyper-V |
 | Systems | Windows Server, Linux administration |
 | Automation | PowerShell, Bash, SQL |
