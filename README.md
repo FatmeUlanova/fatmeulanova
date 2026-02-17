@@ -53,15 +53,55 @@ Transition into Cybersecurity with focus on **SOC Tier 1 / Security Analyst** �
 
 ---
 
+
 ## 🎓 Certifications (Completed)
 
+### 🛡️ Google Cybersecurity Professional Certificate  
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/d4d1bdbb-6a8c-4768-919b-b785b0ca48d7/linked_in?t=taceri)  
 
-- [Technical Diagnostics and Troubleshooting Techniques](https://www.coursera.org/account/accomplishments/verify/0QBWM5IZMOWJ)
-- [Networking Fundamentals (CCNA spanish)](https://www.netacad.com/certificates?issuanceId=05a03436-4ef9-48a7-a374-5c31358792b5)
-- [Data Management and Storage in the Cloud](https://www.coursera.org/account/accomplishments/verify/FYADWIPFZMQ4)
-- [Introduction to Data Analytics in Google Cloud](https://www.coursera.org/account/accomplishments/verify/ZY9MNAQ6RSN3)
-- [Data Transformation in the Cloud](https://www.coursera.org/account/accomplishments/verify/FYADWIPFZMQ4)
+This professional certificate includes the following completed courses:
+
+- [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/PDJOIHRYGSHU)  
+- [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/QR0GTRD17IFF)  
+- [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/I4HG5IER6F55)  
+- [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/CJURX05DZBJC)  
+- [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/8428CK2Z43XZ)  
+- [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/LSUJYA3ANID8)  
+- [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/0VUSOGY4L887)  
+- [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/9BL7WI25HGTY)  
+- [Accelerate Your Job Search with AI](https://www.coursera.org/account/accomplishments/verify/J0I0BE2ZRL1I)  
+
 ---
+
+### ☁️ Google Cloud Certifications
+
+- [Data Management and Storage in the Cloud](https://www.coursera.org/account/accomplishments/verify/FYADWIPFZMQ4)  
+- [Introduction to Data Analytics in Google Cloud](https://www.coursera.org/account/accomplishments/verify/ZY9MNAQ6RSN3)  
+- [Data Transformation in the Cloud](https://www.coursera.org/account/accomplishments/verify/JAQCIJVQ7TCD)  
+
+---
+
+### 🖥️ Microsoft Certification
+
+- [Technical Diagnostics and Troubleshooting Techniques](https://www.coursera.org/account/accomplishments/verify/0QBWM5IZMOWJ)  
+
+---
+
+### 🌐 Networking Certification
+
+- [Networking Fundamentals (CCNA Spanish)](https://www.netacad.com/certificates/issuanceId=05a03436-4ef9-48a7-a374-5c31358792b5)
+
+
+
+## 📜 Certification Badge
+
+You can also view my official Google Cybersecurity Professional Certificate badge here:
+
+- [View Badge](https://www.credly.com/badges/d4d1bdbb-6a8c-4768-919b-b785b0ca48d7/linked_in?t=taceri)  
+
+---
+
+
 
 ## 💼 Experience
 
