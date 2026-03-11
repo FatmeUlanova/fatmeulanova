@@ -1,35 +1,49 @@
 <h1>Hi, I'm Fatme Ulanova 👋</h1>
 <a href="https://www.linkedin.com/in/fatme-ulanova-74477329a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### IT Support Specialist — Network Technician — aspiring Cybersecurity Analyst (SOC Tier 1)
+### Technical Product Manager | AI, Infrastructure & Platform Products
 
+Technology professional with a strong foundation in IT infrastructure, networking, and cloud platforms, now focused on building and scaling technical products.
 
-IT Specialist with expertise in troubleshooting, networking, cloud data platforms and virtualisation.  
-Experienced in diagnosing complex issues, implementing secure network solutions, and managing cloud environments.  
-Currently building hands-on cybersecurity skills, incident response workflows & SOC tooling.
+Experienced in diagnosing complex systems, implementing secure infrastructure solutions, and working across networking, cloud environments, and virtualization. My technical background allows me to collaborate effectively with engineering teams while translating complex technical capabilities into clear product strategy and user value.
+
+Currently developing expertise in **AI-powered products, platform architecture, cybersecurity systems, and data-driven product strategy**, combining hands-on technical knowledge with structured product management thinking.
 
 ---
 
 ## 🧠 Objective
-Transition into Cybersecurity with focus on **SOC Tier 1 / Security Analyst** — combining my real IT infrastructure experience with security monitoring, log analysis and automation.
 
+Grow into a **Technical Product Manager** role focused on building impactful technology products at the intersection of **AI, infrastructure platforms, and secure systems**.
+
+My goal is to lead the development of complex technical products by connecting **engineering capabilities, user needs, and product strategy**, delivering scalable solutions that solve meaningful problems and create measurable value.
+
+### 🎯 Focus Areas
+
+• Technical Product Management  
+• AI & Intelligent Systems  
+• Platform & Infrastructure Products  
+• Cybersecurity & Secure Architecture  
+• Cloud Platforms & Distributed Systems  
+• Product Strategy for Technical Systems
 ---
-
 ## 🛠 Skills
 
 | Category | Skills |
 |---------|--------|
-| Networking & Security | TCP/IP, routing, switching, VLANs, VPN, firewall rules |
-| Cloud Platforms | Google Cloud |
+| Product Management | Product strategy, roadmap planning, requirements definition (PRD), feature prioritization (RICE), stakeholder communication, product discovery |
+| Technical Product Management | Platform products, infrastructure products, AI-enabled systems, technical architecture collaboration |
+| Networking & Security | TCP/IP, routing, switching, VLANs, VPN, firewall configuration, secure network architecture |
+| Cybersecurity | Security fundamentals, incident response concepts, threat detection basics, system hardening |
+| Cloud Platforms | Google Cloud Platform (GCP), cloud infrastructure concepts |
+| Systems Administration | Windows Server, Linux administration, system configuration and maintenance |
 | Virtualisation | VMware, Hyper-V |
-| Systems | Windows Server, Linux administration |
-| Automation | PowerShell, Bash, SQL |
-| Monitoring | Grafana, Prometheus |
-| Service Management | ticketing, documentation, incident handling (ITIL) |
-
----
+| Automation & Scripting | PowerShell, Bash, SQL |
+| Monitoring & Observability | Grafana, Prometheus |
+| Service Operations | Incident management, ticketing systems, documentation, ITIL practices |
+| Collaboration | Cross-functional coordination, technical communication, problem solving |
 
 ## ⚙️ Tools (SOC / Blue Team) — *Learning / In Progress*
+Currently studying for the **CompTIA Security+ certification** to deepen my understanding of cybersecurity fundamentals, threat detection, incident response, and secure system architecture.
 
 ### Network
 <div>
