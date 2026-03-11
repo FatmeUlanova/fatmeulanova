@@ -1,7 +1,7 @@
 <h1>Hi, I'm Fatme Ulanova 👋</h1>
 <a href="https://www.linkedin.com/in/fatme-ulanova-74477329a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-### Technical Product Manager | AI, Infrastructure & Platform Products
+### Product Manager | Technical Product Manager | AI, Cybersecurity & Infrastructure Products
 
 Technology professional with a strong foundation in IT infrastructure, networking, and cloud platforms, now focused on building and scaling technical products.
 
