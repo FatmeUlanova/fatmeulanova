@@ -1,49 +1,41 @@
 <h1>Hi, I'm Fatme Ulanova 👋</h1>
 <a href="https://www.linkedin.com/in/fatme-ulanova-74477329a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.credly.com/users/fatme-ulanova/badges"><img src="https://img.shields.io/badge/-Credly_Badges-FF6B00?&style=for-the-badge&logo=credly&logoColor=white" /></a>
 
-### Product Manager | Technical Product Manager | AI, Cybersecurity & Infrastructure Products
+### IT & Systems Operations | Cybersecurity, Automation & Technical Communication
 
-Technology professional with a strong foundation in IT infrastructure, networking, and cloud platforms, now focused on building and scaling technical products.
+IT practitioner based in Spain (with UK Pre-Settled Status) working in public-sector IT operations while building hands-on evidence in **Security Operations (Blue Team)**, **security workflow automation**, and **stakeholder-facing technical communication**.
 
-Experienced in diagnosing complex systems, implementing secure infrastructure solutions, and working across networking, cloud environments, and virtualization. My technical background allows me to collaborate effectively with engineering teams while translating complex technical capabilities into clear product strategy and user value.
-
-Currently developing expertise in **AI-powered products, platform architecture, cybersecurity systems, and data-driven product strategy**, combining hands-on technical knowledge with structured product management thinking.
+My strength is combining hands-on infrastructure and defensive work—Windows Server, Active Directory, networking, endpoint diagnostics, and incident triage—with the human side of security: translating technical risk into clear decisions, operational ownership, and business-aware communication.
 
 ---
 
-## 🧠 Objective
+## 🎯 Career Direction & Focus
 
-Grow into a **Technical Product Manager** role focused on building impactful technology products at the intersection of **AI, infrastructure platforms, and secure systems**.
+Building from a hands-on **IT & Systems Operations** and **Blue Team** foundation toward **Solutions Engineering, Security Consulting, and customer/stakeholder-facing cybersecurity roles**:
 
-My goal is to lead the development of complex technical products by connecting **engineering capabilities, user needs, and product strategy**, delivering scalable solutions that solve meaningful problems and create measurable value.
+- **Security Operations & Defense (Blue Team):** Alert triage, incident response workflows, MITRE ATT&CK mapping, system hardening, and security monitoring.
+- **Security Automation & AI Workflows:** Building practical automation (n8n, PowerShell, JavaScript) where tools speed up detection while humans retain accountability for high-impact decisions.
+- **Systems & Network Infrastructure:** Windows & Windows Server (AD DS, DNS, DHCP, GPO), Linux administration, VLANs, routing/switching, VPNs, and virtualization (VMware, Hyper-V).
+- **Communication, Stakeholders & Process Ownership:** Translating complex technical problems for non-technical audiences, documenting operational runbooks, and bridging IT/security teams with real organizational needs.
 
-### 🎯 Focus Areas
-
-• Technical Product Management  
-• AI & Intelligent Systems  
-• Platform & Infrastructure Products  
-• Cybersecurity & Secure Architecture  
-• Cloud Platforms & Distributed Systems  
-• Product Strategy for Technical Systems
 ---
+
 ## 🛠 Skills
 
-| Category | Skills |
-|---------|--------|
-| Product Management | Product strategy, roadmap planning, requirements definition (PRD), feature prioritization (RICE), stakeholder communication, product discovery |
-| Technical Product Management | Platform products, infrastructure products, AI-enabled systems, technical architecture collaboration |
-| Networking & Security | TCP/IP, routing, switching, VLANs, VPN, firewall configuration, secure network architecture |
-| Cybersecurity | Security fundamentals, incident response concepts, threat detection basics, system hardening |
-| Cloud Platforms | Google Cloud Platform (GCP), cloud infrastructure concepts |
-| Systems Administration | Windows Server, Linux administration, system configuration and maintenance |
-| Virtualisation | VMware, Hyper-V |
-| Automation & Scripting | PowerShell, Bash, SQL |
-| Monitoring & Observability | Grafana, Prometheus |
-| Service Operations | Incident management, ticketing systems, documentation, ITIL practices |
-| Collaboration | Cross-functional coordination, technical communication, problem solving |
+| Area | Capabilities |
+|------|--------------|
+| **Cybersecurity & Blue Team** | Security fundamentals, alert triage, incident response workflows, MITRE ATT&CK mapping, vulnerability & risk prioritization, system hardening |
+| **Security Automation** | n8n workflow orchestration, PowerShell, CMD/Batch, Bash, SQL, JavaScript (workflow nodes) |
+| **Systems & Infrastructure** | Windows 10/11, Windows Server (AD DS, DNS, DHCP, GPO, File Services), Linux administration, VMware, Hyper-V, GCP fundamentals |
+| **Networking & Security** | TCP/IP, VLANs, routing & switching, VPNs, firewall fundamentals, Wireshark, Suricata, Zeek |
+| **SIEM & Endpoint (Lab)** | Microsoft Sentinel, Microsoft Defender for Endpoint, Splunk, Elastic, Velociraptor, Grafana |
+| **Communication & Operations** | Stakeholder communication, translating technical risk for business/non-technical users, incident coordination, ITIL documentation, process ownership |
+
+---
 
 ## ⚙️ Tools (SOC / Blue Team) — *Learning / In Progress*
-Currently studying for the **CompTIA Security+ certification** to deepen my understanding of cybersecurity fundamentals, threat detection, incident response, and secure system architecture.
+Currently studying for the **CompTIA Security+ (SY0-701)** certification to deepen hands-on threat detection, incident response, and secure system architecture skills.
 
 ### Network
 <div>
@@ -67,103 +59,56 @@ Currently studying for the **CompTIA Security+ certification** to deepen my unde
 
 ---
 
+## 📂 Featured Projects
 
-## 🎓 Certifications (Completed)
+- **[USB Windows System Repair & Support Toolkit](https://github.com/FatmeUlanova/USB-Windows-System-Repair-Toolkit)**  
+  Portable technician toolkit built with PowerShell and Batch to automate Windows system diagnostics, network resets, disk/image integrity checks (`SFC` / `DISM`), and structured support logs.
 
-### 🛡️ Google Cybersecurity Professional Certificate  
-- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/d4d1bdbb-6a8c-4768-919b-b785b0ca48d7/linked_in?t=taceri)  
+- **[Enterprise Windows Server Infrastructure Lab (FusionSigma)](https://github.com/FatmeUlanova/Creation-of-FusionSigma-s-IT-infrastructure-from-scratch)**  
+  End-to-end ASIR capstone infrastructure design and implementation covering Windows Server, Active Directory Domain Services (AD DS), DNS, DHCP, Group Policy (GPO), segmented networking, and core services.
 
-This professional certificate includes the following completed courses:
+- **[Security Incident Triage Automation Lab (`n8n-ai-soc-incident-orchestrator`)](https://github.com/FatmeUlanova/n8n-ai-soc-incident-orchestrator)**  
+  SOC incident triage and security automation lab built with n8n and JavaScript: alert validation, severity routing, simulated threat-intel enrichment, MITRE ATT&CK mapping, and human-in-the-loop containment approval.
 
-- [Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/verify/PDJOIHRYGSHU)  
-- [Play It Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/QR0GTRD17IFF)  
-- [Connect and Protect: Networks and Network Security](https://www.coursera.org/account/accomplishments/verify/I4HG5IER6F55)  
-- [Tools of the Trade: Linux and SQL](https://www.coursera.org/account/accomplishments/verify/CJURX05DZBJC)  
-- [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/8428CK2Z43XZ)  
-- [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/LSUJYA3ANID8)  
-- [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/0VUSOGY4L887)  
-- [Put It to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/9BL7WI25HGTY)  
-- [Accelerate Your Job Search with AI](https://www.coursera.org/account/accomplishments/verify/J0I0BE2ZRL1I)  
+- **[InsideTheBreach — Corporate Penetration Testing & Defense Lab](https://github.com/FatmeUlanova/InsideTheBreach)**  
+  Multi-stage corporate lab environment analyzing attack paths, privilege escalation, and the defensive controls required to detect and stop them.
 
 ---
 
-### ☁️ Google Cloud Certifications
+## 🎓 Certifications & Credentials
 
-- [Data Management and Storage in the Cloud](https://www.coursera.org/account/accomplishments/verify/FYADWIPFZMQ4)  
-- [Introduction to Data Analytics in Google Cloud](https://www.coursera.org/account/accomplishments/verify/ZY9MNAQ6RSN3)  
-- [Data Transformation in the Cloud](https://www.coursera.org/account/accomplishments/verify/JAQCIJVQ7TCD)  
+Verified badges available on **[Credly](https://www.credly.com/users/fatme-ulanova/badges)**:
 
----
+### Completed
+- **[Google Cybersecurity Professional Certificate (v.2)](https://www.credly.com/badges/d4d1bdbb-6a8c-4768-919b-b785b0ca48d7/linked_in?t=taceri)** — Google
+- **[CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/users/fatme-ulanova/badges)** — Cisco Networking Academy
+- **Networking Fundamentals** — [Cisco Networking Academy](https://www.netacad.com/certificates/issuanceId=05a03436-4ef9-48a7-a374-5c31358792b5)
+- **Technical Diagnostics and Troubleshooting Techniques** — [Microsoft / Coursera](https://www.coursera.org/account/accomplishments/verify/0QBWM5IZMOWJ)
+- **Google Cloud Data & Infrastructure Courses** — [Data Management & Storage](https://www.coursera.org/account/accomplishments/verify/FYADWIPFZMQ4) · [Data Analytics in GCP](https://www.coursera.org/account/accomplishments/verify/ZY9MNAQ6RSN3) · [Data Transformation](https://www.coursera.org/account/accomplishments/verify/JAQCIJVQ7TCD)
 
-### 🖥️ Microsoft Certification
-
-- [Technical Diagnostics and Troubleshooting Techniques](https://www.coursera.org/account/accomplishments/verify/0QBWM5IZMOWJ)  
-
----
-
-### 🌐 Networking Certification
-
-- [Networking Fundamentals (CCNA Spanish)](https://www.netacad.com/certificates/issuanceId=05a03436-4ef9-48a7-a374-5c31358792b5)
-
-
-
-## 📜 Certification Badge
-
-You can also view my official Google Cybersecurity Professional Certificate badge here:
-
-- [View Badge](https://www.credly.com/badges/d4d1bdbb-6a8c-4768-919b-b785b0ca48d7/linked_in?t=taceri)  
+### In Progress
+- **CompTIA Security+ (SY0-701)** — Active preparation
 
 ---
 
+## 💼 Experience & Education
 
+- **Auxiliar Informático (IT Support & Systems Assistant)** — *Ayuntamiento de El Ejido, Spain* (Jul 2026 – Present; prior dual-training placements Oct 2023 – Jun 2025)  
+  On-site and remote technical support, Windows/Linux workstation and account administration, network and printer diagnostics, and operational documentation across municipal departments.
 
-## 💼 Experience
-
-**IT Support & Network Technician — Town Hall El Ejido, Spain — 2024-2025**
-
-- Diagnosed and resolved 95% of user incidents on first contact  
-- Configured Cisco routers, switches & wireless AP — reduced downtime by 20%  
-- Supported migration to Google Cloud (data management & access control)  
-- Implemented system monitoring with Grafana — improved response time by 30%  
-- Administered Windows & Linux for 150+ users — 99.9% uptime  
-- Deployed VMware & Hyper-V virtualised infrastructure  
-- Automated tasks using PowerShell (~10 hours/week saved)  
-- Enforced firewall rules & VPN policies with security team  
-- Maintained documentation following ITIL standards  
-
----
-
-## 🎓 Education
-
-**Higher National Diploma — Networked Computer Systems Administration**  
-I.E.S Turaniana — Roquetas de Mar, Spain  
-<a href="https://drive.google.com/file/d/1AyJo_JJemBoLGk3IuCmS3vLmK3A4gJWQ/view?usp=sharing" target="_blank">View Diploma Document</a>
-
-**Biology & Chemistry (unfinished)**  
-Sofia University "SAINT KLIMENT OHRIDSKI"
+- **Higher Technician in Networked Computer Systems Administration (ASIR)** — *I.E.S. Turaniana, Roquetas de Mar, Spain* (2023 – 2025)
 
 ---
 
 ## 🌍 Languages
 
-Spanish (C1), English (C1), Turkish (B1), Bulgarian (native)
+- **Spanish:** Fluent (C1)
+- **English:** Professional working proficiency
+- **Bulgarian:** Native
 
 ---
 
-## 📁 Projects
+## 📫 Connect
 
-- FusionSigma IT Infrastructure — Spain  
-  https://fatme.es/projects
-
-- Detection Lab
-- SOC Automation Project
-
----
-
-## 🤳 Connect with me
-
-- Twitter / X: https://x.com/fatme_ulanova
-- LinkedIn: https://www.linkedin.com/in/fatme-ulanova-74477329a/
-- Portfolio website: https://fatme.es/
-
----
+- **LinkedIn:** [linkedin.com/in/fatme-ulanova-74477329a](https://www.linkedin.com/in/fatme-ulanova-74477329a/)
+- **Credly:** [credly.com/users/fatme-ulanova/badges](https://www.credly.com/users/fatme-ulanova/badges)
